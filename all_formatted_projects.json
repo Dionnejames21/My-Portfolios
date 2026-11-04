@@ -1,0 +1,786 @@
+[
+  {
+    "id": "proj-1",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #1",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e90c7e7c5a2f715eb02a.jpeg"
+  },
+  {
+    "id": "proj-2",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #2",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e90c4c82f7be9220a53f.jpeg"
+  },
+  {
+    "id": "proj-3",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #3",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e90c6cc0eead5ce13cc3.png"
+  },
+  {
+    "id": "proj-4",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #4",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9117c135509c88be439.jpg"
+  },
+  {
+    "id": "proj-5",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #5",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e90c1f1059c428ff9262.png"
+  },
+  {
+    "id": "proj-6",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #6",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e90ce05851175c84d124.png"
+  },
+  {
+    "id": "proj-7",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #7",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9207c135509c88be4e9.png"
+  },
+  {
+    "id": "proj-8",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #8",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e91f3c3aed7c63c63575.png"
+  },
+  {
+    "id": "proj-9",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #9",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e958a0bd00c015f9285a.png"
+  },
+  {
+    "id": "proj-10",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #10",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9587c135509c88be73b.png"
+  },
+  {
+    "id": "proj-11",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #11",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e958e05851175c84d3e7.png"
+  },
+  {
+    "id": "proj-12",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #12",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9586cc0eead5ce13fcf.png"
+  },
+  {
+    "id": "proj-13",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #13",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9583c3aed7c63c63749.png"
+  },
+  {
+    "id": "proj-14",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #14",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e95e6cc0eead5ce13fff.png"
+  },
+  {
+    "id": "proj-15",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #15",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e95f1f1059c428ff959a.png"
+  },
+  {
+    "id": "proj-16",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #16",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e95e3c3aed7c63c63763.png"
+  },
+  {
+    "id": "proj-17",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #17",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9c49b6d07a704b2b3d2.png"
+  },
+  {
+    "id": "proj-18",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #18",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9c43c3aed7c63c63b14.png"
+  },
+  {
+    "id": "proj-19",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #19",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14ebc51f1059c428ffab53.png"
+  },
+  {
+    "id": "proj-20",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #20",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e9116cc0eead5ce13cfb.png"
+  },
+  {
+    "id": "proj-21",
+    "categoryKey": "funnel",
+    "categoryLabel": "FUNNEL",
+    "title": "Sales & Booking Funnel #21",
+    "description": "High-converting sales funnel, landing page, and booking system build.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14e920069d64aa5d37b3f1.png"
+  },
+  {
+    "id": "proj-22",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #1",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185d60ad4b061938293b.png"
+  },
+  {
+    "id": "proj-23",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #2",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185c54d7dff212d28339.png"
+  },
+  {
+    "id": "proj-24",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #3",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185a0397b3655e6c41fe.png"
+  },
+  {
+    "id": "proj-25",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #4",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185a60ad4b06193828e5.png"
+  },
+  {
+    "id": "proj-26",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #5",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185a0397b3655e6c41fa.png"
+  },
+  {
+    "id": "proj-27",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #6",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151856d2747625ad8a9b7c.png"
+  },
+  {
+    "id": "proj-28",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #7",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b63d2747625ad8bf04c.png"
+  },
+  {
+    "id": "proj-29",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #8",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6354d7dff212d3ceb1.png"
+  },
+  {
+    "id": "proj-30",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #9",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b63e05851175c891bda.png"
+  },
+  {
+    "id": "proj-31",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #10",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6660ad4b0619397b82.png"
+  },
+  {
+    "id": "proj-32",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #11",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b67e05851175c891c36.png"
+  },
+  {
+    "id": "proj-33",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #12",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6760ad4b0619397ba8.png"
+  },
+  {
+    "id": "proj-34",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #13",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6754d7dff212d3cf4f.png"
+  },
+  {
+    "id": "proj-35",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #14",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b68e05851175c891c67.png"
+  },
+  {
+    "id": "proj-36",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #15",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b67d2747625ad8bf0ad.png"
+  },
+  {
+    "id": "proj-37",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #16",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6ad2747625ad8bf0fb.png"
+  },
+  {
+    "id": "proj-38",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #17",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c42e05851175c892c40.png"
+  },
+  {
+    "id": "proj-39",
+    "categoryKey": "automation",
+    "categoryLabel": "AUTOMATION",
+    "title": "Workflow Automation #18",
+    "description": "Automated multi-channel follow-up, lead routing, and trigger workflows.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c42e05851175c892c3f.png"
+  },
+  {
+    "id": "proj-40",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #1",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FWVjtKb0rLhOE85zZ1c0G\\u002Fmedia\\u002F69aac355b3fc006ac91d918b.png"
+  },
+  {
+    "id": "proj-41",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #2",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FWVjtKb0rLhOE85zZ1c0G\\u002Fmedia\\u002F69aac4fe618c8da9ee23f070.png"
+  },
+  {
+    "id": "proj-42",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #3",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d654d7dff212d0f356.png"
+  },
+  {
+    "id": "proj-43",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #4",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d6e05851175c862be1.png"
+  },
+  {
+    "id": "proj-44",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #5",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d660ad4b06193691dc.png"
+  },
+  {
+    "id": "proj-45",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #6",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d60397b3655e6aa8fc.png"
+  },
+  {
+    "id": "proj-46",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #7",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d660ad4b06193691d2.png"
+  },
+  {
+    "id": "proj-47",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #8",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d2e05851175c862b89.png"
+  },
+  {
+    "id": "proj-48",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #9",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d254d7dff212d0f28e.png"
+  },
+  {
+    "id": "proj-49",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #10",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d260ad4b0619369198.png"
+  },
+  {
+    "id": "proj-50",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #11",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d2e05851175c862b8a.png"
+  },
+  {
+    "id": "proj-51",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #12",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d260ad4b0619369199.png"
+  },
+  {
+    "id": "proj-52",
+    "categoryKey": "a2p",
+    "categoryLabel": "A2P / SMS",
+    "title": "A2P 10DLC & SMS System #13",
+    "description": "A2P 10DLC compliance registration, SMS messaging setup, and phone routing.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1503d2d2747625ad88fd5b.png"
+  },
+  {
+    "id": "proj-53",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #1",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151a860397b3655e6c6b35.jpeg"
+  },
+  {
+    "id": "proj-54",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #2",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151a8654d7dff212d2aae5.jpeg"
+  },
+  {
+    "id": "proj-55",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #3",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151a86e05851175c87ebd5.jpeg"
+  },
+  {
+    "id": "proj-56",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #4",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14f6004c82f7be92212c73.jpeg"
+  },
+  {
+    "id": "proj-57",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #5",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14f600a0bd00c015f9ac87.jpeg"
+  },
+  {
+    "id": "proj-58",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #6",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14f6003c3aed7c63c6b929.jpeg"
+  },
+  {
+    "id": "proj-59",
+    "categoryKey": "n8n",
+    "categoryLabel": "N8N / MAKE",
+    "title": "n8n & Make Automation #7",
+    "description": "Custom API webhook automation bridge connecting external platforms.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a14f6009b6d07a704b3353b.jpeg"
+  },
+  {
+    "id": "proj-60",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #1",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185660ad4b06193828a9.png"
+  },
+  {
+    "id": "proj-61",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #2",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185a0397b3655e6c41fb.png"
+  },
+  {
+    "id": "proj-62",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #3",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151a3460ad4b0619384c34.png"
+  },
+  {
+    "id": "proj-63",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #4",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185c54d7dff212d28337.png"
+  },
+  {
+    "id": "proj-64",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #5",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6360ad4b0619397b2e.png"
+  },
+  {
+    "id": "proj-65",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #6",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b63d2747625ad8bf052.png"
+  },
+  {
+    "id": "proj-66",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #7",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b63e05851175c891bd9.png"
+  },
+  {
+    "id": "proj-67",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #8",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6b60ad4b0619397c16.png"
+  },
+  {
+    "id": "proj-68",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #9",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152b6a54d7dff212d3cf97.png"
+  },
+  {
+    "id": "proj-69",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #10",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c45d2747625ad8c01ff.png"
+  },
+  {
+    "id": "proj-70",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #11",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c42d2747625ad8c01c1.png"
+  },
+  {
+    "id": "proj-71",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #12",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c420397b3655e6da511.png"
+  },
+  {
+    "id": "proj-72",
+    "categoryKey": "crm",
+    "categoryLabel": "CRM",
+    "title": "CRM & Pipeline Setup #13",
+    "description": "Custom sales pipeline, opportunity stages, custom fields, and lead structure.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c4260ad4b0619398cc0.png"
+  },
+  {
+    "id": "proj-73",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #1",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1511fb54d7dff212d20aa5.png"
+  },
+  {
+    "id": "proj-74",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #2",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1511fb54d7dff212d20aa6.png"
+  },
+  {
+    "id": "proj-75",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #3",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1511fbe05851175c87424a.png"
+  },
+  {
+    "id": "proj-76",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #4",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1511fbe05851175c874249.png"
+  },
+  {
+    "id": "proj-77",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #5",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1511fb60ad4b061937b111.png"
+  },
+  {
+    "id": "proj-78",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #6",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15120054d7dff212d20b39.png"
+  },
+  {
+    "id": "proj-79",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #7",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15120060ad4b061937b17c.png"
+  },
+  {
+    "id": "proj-80",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #8",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1512000397b3655e6bc522.png"
+  },
+  {
+    "id": "proj-81",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #9",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151200d2747625ad8a22a4.png"
+  },
+  {
+    "id": "proj-82",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #10",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1512000397b3655e6bc524.png"
+  },
+  {
+    "id": "proj-83",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #11",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151203d2747625ad8a2306.png"
+  },
+  {
+    "id": "proj-84",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #12",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15120460ad4b061937b208.png"
+  },
+  {
+    "id": "proj-85",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #13",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151204d2747625ad8a2314.png"
+  },
+  {
+    "id": "proj-86",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #14",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1512050397b3655e6bc589.png"
+  },
+  {
+    "id": "proj-87",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #15",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15120660ad4b061937b227.png"
+  },
+  {
+    "id": "proj-88",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #16",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151206d2747625ad8a232e.png"
+  },
+  {
+    "id": "proj-89",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #17",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1512070397b3655e6bc5a0.png"
+  },
+  {
+    "id": "proj-90",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #18",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1512080397b3655e6bc5a2.png"
+  },
+  {
+    "id": "proj-91",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #19",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1512090397b3655e6bc5ba.png"
+  },
+  {
+    "id": "proj-92",
+    "categoryKey": "dashboard",
+    "categoryLabel": "DASHBOARD",
+    "title": "Custom Dashboard Design #20",
+    "description": "Custom reporting dashboard, source tracking, and pipeline visibility.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151209d2747625ad8a2388.png"
+  },
+  {
+    "id": "proj-93",
+    "categoryKey": "voiceai",
+    "categoryLabel": "VOICE AI",
+    "title": "AI Voice Agent Build #1",
+    "description": "Voice AI agent integration using Vapi and AI Studio for 24/7 lead handling.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185660ad4b06193828aa.png"
+  },
+  {
+    "id": "proj-94",
+    "categoryKey": "voiceai",
+    "categoryLabel": "VOICE AI",
+    "title": "AI Voice Agent Build #2",
+    "description": "Voice AI agent integration using Vapi and AI Studio for 24/7 lead handling.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a15185660ad4b06193828ab.png"
+  },
+  {
+    "id": "proj-95",
+    "categoryKey": "voiceai",
+    "categoryLabel": "VOICE AI",
+    "title": "AI Voice Agent Build #3",
+    "description": "Voice AI agent integration using Vapi and AI Studio for 24/7 lead handling.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1518560397b3655e6c41ce.png"
+  },
+  {
+    "id": "proj-96",
+    "categoryKey": "voiceai",
+    "categoryLabel": "VOICE AI",
+    "title": "AI Voice Agent Build #4",
+    "description": "Voice AI agent integration using Vapi and AI Studio for 24/7 lead handling.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a1518560397b3655e6c41cf.png"
+  },
+  {
+    "id": "proj-97",
+    "categoryKey": "voiceai",
+    "categoryLabel": "VOICE AI",
+    "title": "AI Voice Agent Build #5",
+    "description": "Voice AI agent integration using Vapi and AI Studio for 24/7 lead handling.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a151859e05851175c87bf83.png"
+  },
+  {
+    "id": "proj-98",
+    "categoryKey": "voiceai",
+    "categoryLabel": "VOICE AI",
+    "title": "AI Voice Agent Build #6",
+    "description": "Voice AI agent integration using Vapi and AI Studio for 24/7 lead handling.",
+    "imageUrl": "https:\\u002F\\u002Fassets.cdn.filesafe.space\\u002FCtDmbniqQCD3jMxMQf0q\\u002Fmedia\\u002F6a152c42d2747625ad8c01c2.png"
+  }
+]
